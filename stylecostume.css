@@ -184,7 +184,7 @@ height: 25rem;
     flex-direction: column;
 align-items: center;
  justify-content: space-between;
-    background-color: white;
+    background-color: var(--on-primary);
     border: solid 1px black;
     border-radius: 30px;
     box-shadow: var(--box-shadow);
